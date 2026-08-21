@@ -69,4 +69,4 @@ Built while studying upgradeable smart contracts through Updraft and Foundry.
 
 ---
 
-**Builder:** 0xscarfac3
+**Builder:** https://github.com/0xscarfac3
